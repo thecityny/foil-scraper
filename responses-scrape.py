@@ -40,7 +40,7 @@ ids2022=data2022.foil_id
 # for ids in ids2022:
 #     print(f'{url_base}{ids}{url_end}')
 
-print(ids2022[2642])
+# print(ids2022[2642])
 
 
 # In[4]:
@@ -109,7 +109,6 @@ for eachId in ids2022[3642:]:
 # In[18]:
 
 
-ids2022[3642:]
 
 
 # In[ ]:
